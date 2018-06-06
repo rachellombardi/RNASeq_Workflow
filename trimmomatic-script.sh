@@ -2,6 +2,7 @@
 
 ##Previously generated .txt file with sample-ids only (i.e. TP-1-10-S10 and not TP-1-10-S10-R1). This is the file referenced as sample-ids.txt. 
 ##executed on 6/6/2018 on merged files
+## Daniel wuz here
 
 ##load trimmomatic
 module load bio
