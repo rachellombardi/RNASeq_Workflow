@@ -1,0 +1,7 @@
+*.fastq.gz
+*.fq.gz
+slurm*.out
+slurm_logs
+*_fastqc.html
+*_fastqc.zip
+multiqc*
