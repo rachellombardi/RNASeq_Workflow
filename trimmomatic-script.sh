@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ##Previously generated .txt file with sample-ids only (i.e. TP-1-10-S10 and not TP-1-10-S10-R1). This is the file referenced as sample-ids.txt. 
-##executed on 6/6/2018 on merged files
-## Daniel wuz here
+##executed on 7/4/2018 on merged files
+##Updated TruSeq3-PE-2.fa file to look for Poly(A,C,T) strings of 10 nucleotides each
 
 ##load trimmomatic
 module load bio
